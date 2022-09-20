@@ -1,0 +1,1 @@
+Este es un cascarón de mi Rest Server. Continuará creciendo y agregaré muchas más funcionalidades, pero por ahora, ésta es la base.
